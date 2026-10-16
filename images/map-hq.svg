@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Map placeholder for headquarters">
+  <rect width="640" height="360" fill="#E8EDF4"/>
+  <g stroke="#C9D4E4" stroke-width="2">
+    <path d="M0 90 H640 M0 180 H640 M0 270 H640"/>
+    <path d="M160 0 V360 M320 0 V360 M480 0 V360"/>
+  </g>
+  <path d="M0 220 Q160 200 320 230 T640 210" stroke="#B7C6DC" stroke-width="14" fill="none"/>
+  <path d="M0 220 Q160 200 320 230 T640 210" stroke="#F7F8FA" stroke-width="4" fill="none" stroke-dasharray="10 8"/>
+  <g transform="translate(320,150)">
+    <path d="M0 60 C-26 24 -40 6 -40 -14 A40 40 0 0 1 40 -14 C40 6 26 24 0 60 Z" fill="#164E8A"/>
+    <circle cx="0" cy="-14" r="15" fill="#C9A227"/>
+    <circle cx="0" cy="-14" r="6" fill="#0B1F3A"/>
+  </g>
+  <text x="320" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="600" fill="#164E8A">Map placeholder &#183; Add Google Maps embed later</text>
+</svg>

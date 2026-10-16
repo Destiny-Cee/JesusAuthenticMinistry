@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Fellowship placeholder image">
+  <defs>
+    <linearGradient id="ab" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#164E8A"/>
+      <stop offset="1" stop-color="#0B1F3A"/>
+    </linearGradient>
+    <linearGradient id="ag" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C9A227" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#C9A227" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="640" fill="url(#ab)"/>
+  <circle cx="400" cy="250" r="170" fill="#FFFFFF" opacity="0.05"/>
+  <circle cx="400" cy="250" r="120" fill="#FFFFFF" opacity="0.05"/>
+  <path d="M400 130 v170 M340 185 h120" stroke="url(#ag)" stroke-width="14" stroke-linecap="round"/>
+  <g fill="#F7F8FA" opacity="0.85">
+    <path d="M250 640 L250 520 a26 26 0 0 1 52 0 L302 640 Z M302 545 h40 v95 h-40 Z"/>
+    <path d="M370 640 L370 505 a28 28 0 0 1 56 0 L426 640 Z M426 535 h44 v105 h-44 Z"/>
+    <path d="M500 640 L500 520 a26 26 0 0 1 52 0 L552 640 Z M552 545 h40 v95 h-40 Z"/>
+  </g>
+  <text x="400" y="612" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#C9A227" opacity="0.9">Faith &#183; Fellowship &#183; Transformation</text>
+</svg>

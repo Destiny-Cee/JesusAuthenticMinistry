@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Worship atmosphere placeholder">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1F3A"/>
+      <stop offset="0.55" stop-color="#123A66"/>
+      <stop offset="1" stop-color="#164E8A"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C9A227" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#C9A227" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="light" cx="0.5" cy="0.35" r="0.6">
+      <stop offset="0" stop-color="#F7E7B0" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#F7E7B0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#sky)"/>
+  <circle cx="960" cy="360" r="520" fill="url(#light)"/>
+  <polygon points="960,80 860,720 1060,720" fill="url(#beam)"/>
+  <polygon points="760,120 700,700 860,700" fill="url(#beam)" opacity="0.5"/>
+  <polygon points="1160,120 1060,700 1220,700" fill="url(#beam)" opacity="0.5"/>
+  <rect width="1920" height="1080" fill="url(#glow)"/>
+  <g fill="#081729" opacity="0.9">
+    <path d="M0 1080 L0 900 Q120 860 220 900 T440 890 T660 905 T880 885 T1100 900 T1320 890 T1540 905 T1760 890 T1920 900 L1920 1080 Z"/>
+  </g>
+  <g fill="#061223">
+    <path d="M150 1080 L150 990 a18 18 0 0 1 36 0 L186 1080 Z M186 1010 h44 v70 h-44 Z M140 1000 h56 l-8 -14 h-40 Z"/>
+    <path d="M420 1080 L420 975 a20 20 0 0 1 40 0 L460 1080 Z M460 1000 h48 v80 h-48 Z M408 988 h64 l-10 -16 h-44 Z"/>
+    <path d="M700 1080 L700 995 a16 16 0 0 1 32 0 L732 1080 Z M732 1012 h40 v68 h-40 Z M692 1002 h48 l-7 -13 h-34 Z"/>
+    <path d="M960 1080 L960 960 a22 22 0 0 1 44 0 L1004 1080 Z M1004 990 h52 v90 h-52 Z M946 976 h72 l-12 -18 h-48 Z"/>
+    <path d="M1240 1080 L1240 990 a18 18 0 0 1 36 0 L1276 1080 Z M1276 1010 h44 v70 h-44 Z M1230 998 h56 l-8 -14 h-40 Z"/>
+    <path d="M1520 1080 L1520 975 a20 20 0 0 1 40 0 L1560 1080 Z M1560 1000 h48 v80 h-48 Z M1508 988 h64 l-10 -16 h-44 Z"/>
+    <path d="M1770 1080 L1770 995 a16 16 0 0 1 32 0 L1802 1080 Z M1802 1012 h40 v68 h-40 Z M1762 1002 h48 l-7 -13 h-34 Z"/>
+    <path d="M280 1080 L280 1010 a14 14 0 0 1 28 0 L308 1080 Z M308 1025 h34 v55 h-34 Z"/>
+    <path d="M560 1080 L560 1005 a15 15 0 0 1 30 0 L590 1080 Z M590 1022 h36 v58 h-36 Z"/>
+    <path d="M840 1080 L840 1012 a13 13 0 0 1 26 0 L866 1080 Z M866 1028 h32 v52 h-32 Z"/>
+    <path d="M1120 1080 L1120 1005 a15 15 0 0 1 30 0 L1150 1080 Z M1150 1022 h36 v58 h-36 Z"/>
+    <path d="M1400 1080 L1400 1012 a13 13 0 0 1 26 0 L1426 1080 Z M1426 1028 h32 v52 h-32 Z"/>
+    <path d="M1660 1080 L1660 1005 a15 15 0 0 1 30 0 L1690 1080 Z M1690 1022 h36 v58 h-36 Z"/>
+  </g>
+  <g opacity="0.5" fill="#C9A227">
+    <circle cx="640" cy="300" r="2.5"/>
+    <circle cx="1280" cy="260" r="2"/>
+    <circle cx="480" cy="420" r="1.8"/>
+    <circle cx="1440" cy="380" r="2.2"/>
+    <circle cx="960" cy="200" r="2"/>
+    <circle cx="320" cy="250" r="1.6"/>
+    <circle cx="1620" cy="320" r="1.8"/>
+  </g>
+</svg>
